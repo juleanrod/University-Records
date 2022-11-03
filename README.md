@@ -1,7 +1,7 @@
 
 # University Records
 
-An application built with the porpuse to manage grades/records for an university 
+An application built with the purpose to manage grades/records for an university 
 and apply what I have learned so far using Java
 
 # How It's Made
